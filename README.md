@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hello world , I'm Sandoval Lucas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a href="https://github.com/LucasSandoval96"><img src="Sophie%20Nguyen%20-%20CatCat.gif" alt="CatCat"></a>
  <br> 
  
  <hr>
