@@ -11,7 +11,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-sandoval-a58344339/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucassando96" /></a>
 <a href="https://www.instagram.com/lucassando96/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="lucassando96" /></a>
-<a href="https://www.instagram.com/lucassando96/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="lucassando96" /></a>
 </p>
   
 <br> 
