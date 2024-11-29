@@ -42,14 +42,4 @@
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </p>
 
- <br> 
- <hr>
- <br>
-   
-<!--contador de visitas-->
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/LucasSandoval96/count.svg" />  
-</p>
+
